@@ -10,4 +10,4 @@ cv2.imshow("Median Blurred Image", median_blur)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-![Median blur  Output](13.jpg)
+![Gaussian Blur Output](26.jpg)
